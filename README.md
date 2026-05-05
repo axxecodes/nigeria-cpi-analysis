@@ -79,7 +79,6 @@ This is Project 1 of my Data Analyst portfolio. Built to demonstrate Excel-based
 
 **Author:** Emmanuel Uchechukwu
 **Contact:** i.agent.kachi@gmail.com
-**LinkedIn:** [Add your LinkedIn URL here]
 
 ---
 
